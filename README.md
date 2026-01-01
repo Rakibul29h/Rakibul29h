@@ -1,5 +1,6 @@
 <img src="https://github.com/Rakibul29h/Rakibul29h/blob/main/Github%20Banner.jpg" alt="Rakibuls GitHub README header image">
- :chart_with_upwards_trend: Current Stats
+
+## :chart_with_upwards_trend: Current Stats
 
 <br />
 
@@ -7,7 +8,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Rakibul29h&theme=dark&show_icons=true">
     <img align="center" width="40%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Rakibul29h&show_icons=true">
 </p>
-🔗 &nbsp;**Connect with me**
+
+## 🔗 &nbsp;**Connect with me**
+
 <p><a href="https://x.com/rakibulIslam29h"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
    <a href="https://www.linkedin.com/in/rakibul-islam29"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   </p>
